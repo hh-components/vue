@@ -1,0 +1,7 @@
+{
+    "repos": "https://github.com/hh-components/vue",
+    "version": "v2.0.3",
+    "description": "Simple, Fast & Composable MVVM for building interative interfaces",
+    "name": "vue",
+    "main": "vue.js"
+}
